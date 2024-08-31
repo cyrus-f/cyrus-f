@@ -6,7 +6,8 @@ I'm currently a student at the University of Queensland, pursuing a dual degree 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrus-f&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrus-f&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus-f&layout=donut&theme=radical)
 
 <!--
 **cyrus-f/cyrus-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
