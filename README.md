@@ -4,10 +4,12 @@ Welcome to my GitHub profile!
 
 I'm currently a student at the University of Queensland, pursuing a dual degree in **Mathematics** and **Computer Science**. My areas of focus are **Pure Mathematics** and **Machine Learning**, where I am deeply interested in exploring the theoretical underpinnings of algorithms and their practical applications.
 
+<!-- this doesn't seem to be updating?
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-stats-extended.vercel.app/api?username=cyrus-f&show_icons=true&theme=radical)  
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=cyrus-f&layout=donut&theme=radical)
+-->
 
 <!--
 **cyrus-f/cyrus-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
